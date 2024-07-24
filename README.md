@@ -1,4 +1,4 @@
-# check_in
+# check_in_app
 
 QR code checking app 
 ## Getting Started
