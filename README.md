@@ -1,7 +1,6 @@
-# ez_check_in
+# check_in
 
-QR code checking app for GDG Medea
-
+QR code checking app 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
