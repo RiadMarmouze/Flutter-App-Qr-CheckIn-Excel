@@ -1,0 +1,9 @@
+build/
+test/
+linux/
+web/
+macos/
+windows/
+ios/
+.dart_tool/
+assets/credentials.json
